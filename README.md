@@ -14,7 +14,7 @@ Sistema de gerenciamento de ex-alunos da FATEC Sorocaba desenvolvido como Trabal
 
 ## Sobre o Projeto
 
-O Sistema Alumni FATEC Sorocaba é um projeto desenvolvido como Trabalho de Conclusão de Curso pelos alunos [Leonardo Silva](https://www.linkedin.com/in/leonardo-barbosa-da-silva-085858230/), [Gabriel Bellato](https://www.linkedin.com/in/gabriel-silva-bellato/) e [Nicolas Ferro](https://www.linkedin.com/in/nicolas-alexandrino-ferro/), sob orientação do Professor Jarbas.
+O Sistema Alumni FATEC Sorocaba é um projeto desenvolvido como Trabalho de Conclusão de Curso pelos alunos [Leonardo Silva](https://www.linkedin.com/in/leonardo-barbosa-da-silva-085858230/), [Gabriel Bellato](https://www.linkedin.com/in/gabriel-silva-bellato/) e [Nicolas Ferro](https://www.linkedin.com/in/nicolas-alexandrino-ferro/), sob orientação da Professora Denilce.
 
 O objetivo é criar uma plataforma para conectar alunos e ex-alunos da FATEC Sorocaba, facilitando o networking, oportunidades de carreira e manutenção do vínculo com a instituição.
 
